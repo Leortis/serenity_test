@@ -1,5 +1,5 @@
 <xref>
-  <whenMade>1468333815247</whenMade>
+  <whenMade>1468398112655</whenMade>
   <createdBy>JBehave</createdBy>
   <metaFilter>-ignore</metaFilter>
   <meta/>
@@ -29,8 +29,8 @@ Then they should see the definition &apos;An edible fruit produced by the pear t
 </scenarios>
       <passed>true</passed>
       <pending>false</pending>
-      <started>1468333778764</started>
-      <duration>34194</duration>
+      <started>1468398066048</started>
+      <duration>44317</duration>
     </story>
   </stories>
   <stepMatches/>

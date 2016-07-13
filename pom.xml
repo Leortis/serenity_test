@@ -17,6 +17,10 @@
     </properties>
 
     <repositories>
+        <repository>
+            <id>forplay-legacy</id>
+            <url>http://forplay.googlecode.com/svn/mavenrepo</url>
+        </repository>
       <repository>
         <snapshots>
         <enabled>false</enabled>
